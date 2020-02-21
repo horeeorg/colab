@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void Trapesium() {
+void trapesium() {
   stdout.write('Masukkan alas: ');
   String strAlas = stdin.readLineSync();
 
